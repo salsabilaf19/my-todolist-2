@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/my-todolist-2/static/js/main.a3c40da7.js",
+    "static/js/787.22cb9a41.chunk.js": "/my-todolist-2/static/js/787.22cb9a41.chunk.js",
+    "index.html": "/my-todolist-2/index.html",
+    "main.a3c40da7.js.map": "/my-todolist-2/static/js/main.a3c40da7.js.map",
+    "787.22cb9a41.chunk.js.map": "/my-todolist-2/static/js/787.22cb9a41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a3c40da7.js"
+  ]
+}
